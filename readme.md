@@ -1,4 +1,13 @@
-# opn
+[![npm package](https://img.shields.io/npm/v/@toba/open.svg)](https://www.npmjs.org/package/@toba/open)
+[![Build Status](https://travis-ci.org/toba/open.svg?branch=master)](https://travis-ci.org/toba/open)
+![Code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)
+[![Dependencies](https://img.shields.io/david/toba/open.svg)](https://david-dm.org/toba/open)
+[![DevDependencies](https://img.shields.io/david/dev/toba/open.svg)](https://david-dm.org/toba/open#info=devDependencies&view=list)
+[![codecov](https://codecov.io/gh/toba/open/branch/master/graph/badge.svg)](https://codecov.io/gh/toba/open)
+
+# @toba/open
+
+A TypeScript copy of [sindresorhus/opn](https://github.com/sindresorhus/opn). The following documentation is from `opn`:
 
 > A better [node-open](https://github.com/pwnall/node-open). Opens stuff like websites, files, executables. Cross-platform.
 
