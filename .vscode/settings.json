@@ -1,0 +1,7 @@
+{
+   "editor.tabSize": 3,
+   "jest.enableInlineErrorMessages": false,
+   "jest.enableSnapshotUpdateMessages": false,
+   "jest.autoEnable": false,
+   "jest.enableCodeLens": false
+}
