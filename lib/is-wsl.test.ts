@@ -16,5 +16,6 @@ test('Reports true if platform is Linux but process version has "Windows"', () =
 });
 
 test('Reports false otherwise', () => {
+   jest.unmock('fs');
    expect(checkIsWSL()).toBe(false);
 });
