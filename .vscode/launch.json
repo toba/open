@@ -15,7 +15,7 @@
             "--runInBand",
             "client.test.ts",
             "--testNamePattern",
-            "Has option"
+            "Reports true"
          ],
          "cwd": "${workspaceRoot}"
       }
