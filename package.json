@@ -1,7 +1,8 @@
 {
    "name": "@toba/open",
-   "version": "1.0.0",
-   "description": "[TypeScript'ed copy of sindresorhus/opn] A better node-open. Opens stuff like websites, files, executables. Cross-platform.",
+   "version": "1.0.1",
+   "description":
+      "[TypeScript'ed copy of sindresorhus/opn] A better node-open. Opens stuff like websites, files, executables. Cross-platform.",
    "license": "MIT",
    "repository": "@toba/open",
    "private": false,
